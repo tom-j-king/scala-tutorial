@@ -1,6 +1,6 @@
 package example
 
-class Test {
+object HelloWorld extends App {
   println(1) // 1
   println(1 + 1) // 2
   println("Hello!") // Hello!
